@@ -180,9 +180,6 @@ This dashboard helps organizations:
 
 ## 📸 Dashboard Preview
 
-> Save your dashboard screenshot as **Dashboard.jpg** in the repository root folder.
-## 📸 Dashboard Preview
-
 ![Weekly Schedule Compliance Dashboard](Dashboard.jpg)
 
 
