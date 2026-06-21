@@ -183,7 +183,7 @@ This dashboard helps organizations:
 > Save your dashboard screenshot as **dashboard.png** in the repository root folder.
 
 ```markdown
-![Weekly Schedule Compliance Dashboard](dashboard.png)
+![Weekly Schedule Compliance Dashboard](Dashboard.png)
 ```
 
 
